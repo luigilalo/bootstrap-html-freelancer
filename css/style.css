@@ -6,8 +6,8 @@
     box-sizing: border-box;
 }
 
-/*NAVBAR*/
-.bgnav {background-color: rgb(20, 20, 60);}
+/*HEADER*/
+header {background-color: rgb(20, 20, 60);}
 
 /*PROFILEPICTURE*/
 #pinco {border:solid;
